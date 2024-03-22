@@ -1,0 +1,2 @@
+//tagName[@attribute='atrribute value']
+//*[@attribute='atrribute value']
